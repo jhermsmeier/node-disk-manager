@@ -1,0 +1,30 @@
+{
+  
+  "name": "disk-manager",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "",
+  "keywords": [ "disk-manager" ],
+  
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://github.com/jhermsmeier"
+  },
+  
+  "main": "lib/manager",
+  
+  "dependencies": {},
+  
+  "devDependencies": {},
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhermsmeier/node-disk-manager.git"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-disk-manager/issues"
+  }
+  
+}
